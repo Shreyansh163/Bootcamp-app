@@ -1,0 +1,8 @@
+====> Installations:
+==> In qsp-api: "npm install" and then "npm run dev"
+
+==> Created project called qsp-client
+==> "cd qsp-client"
+==> "yarn add axios react-moment moment react-router-dom@latest react-icons react-hot-toast"
+==> "npm install -D tailwindcss"
+==> 
